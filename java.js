@@ -3,4 +3,4 @@ alert (a.replace ("Am" , "Enem"));
 
 alert (a.toLowerCase ());
 
-alert (a.slice (2,5));
+alert (a.slice (2,4));
